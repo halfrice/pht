@@ -1,0 +1,6 @@
+# python virtual env
+venv
+# misc files
+misc
+# osx lmao
+.DS_Store
