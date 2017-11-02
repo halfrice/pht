@@ -34,10 +34,12 @@ class LinkedList:
       node = node.next
     print('\n')
 
+
+
+
 li = LinkedList()
 li.add(3)
 li.add(8)
 li.add(2)
 li.add(5)
 li.print()
-
